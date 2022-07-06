@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black"
+        android:title="首页">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_test_1"
+        android:icon="@drawable/ic_video_black"
+        android:title="短视频">
+
+    </item>
+    <item
+        android:id="@+id/nav_test_2"
+        android:icon="@drawable/ic_set_black"
+        android:title="个人设置">
+
+    </item>
+</menu>
